@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa Ahmed</h1>
-<h3 align="center">Data Analysis | BI</h3>
+<h3 align="center">Data Analysis | BI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essraahmed&label=Profile%20views&color=0e75b6&style=flat" alt="essraahmed" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **esraaahmedibrahim2@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3mL6bJU](https://bit.ly/3mL6bJU)
+- 📄 Know about my experiences [https://bit.ly/3q8sQle](https://bit.ly/3q8sQle)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
