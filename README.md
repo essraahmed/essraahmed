@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **esraaahmedibrahim2@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3ATiwkS](https://bit.ly/3ATiwkS)
+- 📄 Know about my experiences [https://bit.ly/35gdwed](https://bit.ly/35gdwed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
