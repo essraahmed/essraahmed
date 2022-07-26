@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋🏻, I'm Esraa Ahmed</h1>
 <h3 align="center">Data Analysis | BI Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=essraahmed&label=Profile%20views&color=0e75b6&style=flat" alt="essraahmed" /> </p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=essraahmed&color=blue)
+[![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn")
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/)
 
 - 🌱 I’m currently learning **Data Analysis**
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories 
 
 <br>
 
@@ -56,8 +56,8 @@
 <br>
 <br>
 
-
-## &#x1f4c8; GitHub Stats
+<details>
+  <summary> &#x1f4c8; GitHub Stats </summary>
 
 <br>
 
@@ -71,5 +71,5 @@
 
 <br>
 <br>
-
+</details>
 
