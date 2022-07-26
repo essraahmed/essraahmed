@@ -16,6 +16,8 @@
 - 📄 Know about my experiences [https://bit.ly/35gdwed](https://bit.ly/35gdwed)
 
 
+<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
