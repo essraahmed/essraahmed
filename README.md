@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?essraahmed=DenverCoder1)](https://git.io/streak-stats)
-
 <h1 align="center">Hi 👋, I'm Esraa Ahmed</h1>
 <h3 align="center">Data Analysis | BI Developer</h3>
 
