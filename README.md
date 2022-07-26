@@ -2,6 +2,7 @@
 <h3 align="center">Data Analysis | BI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essraahmed&label=Profile%20views&color=0e75b6&style=flat" alt="essraahmed" /> </p>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/)
 
 - 🌱 I’m currently learning **Data Analysis**
