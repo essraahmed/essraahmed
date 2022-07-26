@@ -5,15 +5,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn")
 
 
+## 👩🏻‍💻About Me
+
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my tableau projects are available at [https://tabsoft.co/3mWIejc](https://tabsoft.co/3mWIejc)
+- 👨‍💻 All of my tableau projects are available at [Tableau](https://tabsoft.co/3mWIejc)
 
 - 👀 I’m interested in **everything about data**
 
-- 📫 How to reach me **esraaahmedibrahim2@gmail.com**
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn") or [![Gmail](https://img.shields.io/badge/-essraahmed-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=esraaahmedibrahim2@gmail.com)
 
-- 📄 Know about my experiences [https://bit.ly/35gdwed](https://bit.ly/35gdwed)
+- 📄 Please check my [Resume](https://bit.ly/35gdwed) for more details.
 
 
 <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
