@@ -15,7 +15,7 @@
 
 - 👀 I’m interested in **everything about data**
 
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn") or [![Gmail](https://img.shields.io/badge/-essraahmed-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=esraaahmedibrahim2@gmail.com)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn") or [![Gmail](https://img.shields.io/badge/-esraaahmedibrahim2-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=esraaahmedibrahim2@gmail.com)
 
 - 📄 Please check my [Resume](https://bit.ly/3PPb5By) for more details.
 
