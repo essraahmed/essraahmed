@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
+- 👯 I’m looking to collaborate on **Data Analysis/ Engineer Projects**
+
 - 👨‍💻 All of my tableau projects are available at [Tableau](https://tabsoft.co/3mWIejc)
 
 - 👀 I’m interested in **everything about data**
