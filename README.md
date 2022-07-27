@@ -66,6 +66,8 @@
 </a>
 
 <br>
+Show some ❤️ by starring some of the repositories and follow me on GitHub.
+
 <br>
 
 ## &#x1f4c8; GitHub Stats 
