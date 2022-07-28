@@ -66,7 +66,7 @@
 </a>
 
 <br>
-Show some ❤️ by starring some of the repositories and follow me on GitHub.
+Show some ❤️ by starring some of my repositories and follow me on GitHub.
 
 <br>
 
