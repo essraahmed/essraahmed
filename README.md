@@ -83,6 +83,8 @@ Show some ❤️ by starring some of my repositories and follow me on GitHub.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=essraahmed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="esraa's GitHub Stats" />
 </a>
 
+<br>
+<br>
 
-<br>
-<br>
+
+![Snake animation](https://github.com/essraahmed/essraahmed/blob/output/github-contribution-grid-snake.svg)
