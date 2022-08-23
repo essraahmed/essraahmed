@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **Data Analysis/ Engineer Projects**
+- 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
 
 - 👨‍💻 All of my tableau projects are available at [Tableau](https://tabsoft.co/3mWIejc)
 
@@ -48,7 +48,7 @@
 
 ## 📌 Pinned Repositories 
 
-<br>
+
 
 <a href="https://github.com/essraahmed/Data-Modeling-with-Postgres">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Modeling-with-Postgres&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -58,7 +58,6 @@
 <a href="https://github.com/essraahmed/Data-Warehouse-With-Redshift">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Warehouse-With-Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 
 <br>
 <a href="https://github.com/essraahmed/Data-Deduplication-using-AWS-Lake-Formation-FindMatches">
