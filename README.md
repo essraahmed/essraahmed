@@ -48,6 +48,7 @@
 
 ## 📌 Pinned Repositories 
 
+Show some ❤️ by starring some of my repositories and follow me on GitHub.
 
 
 <a href="https://github.com/essraahmed/Data-Modeling-with-Postgres">
@@ -70,7 +71,6 @@
 </a>
 
 <br>
-Show some ❤️ by starring some of my repositories and follow me on GitHub.
 
 <br>
 
