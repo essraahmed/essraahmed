@@ -7,7 +7,7 @@
 
 ## 👩🏻‍💻About Me
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering/Science**
 
 - 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
 
