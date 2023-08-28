@@ -24,6 +24,8 @@
 
 ### Languages and Tools
 
+[![LangChain](https://img.shields.io/badge/LangChain-black?logo=LangChain)](https://)
+[![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit)](https://)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
