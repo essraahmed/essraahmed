@@ -51,11 +51,11 @@
 
 ## 📌 Pinned Repositories 
 
-Show some support by starring some of my repositories and follow me on GitHub.
+Show support by starring in some of my repositories and following me on GitHub.
 
 
-<a href="https://github.com/essraahmed/Data-Modeling-with-Postgres">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Modeling-with-Postgres&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/essraahmed/Machine-Learning-Classification">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Machine-Learning-Classification&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
