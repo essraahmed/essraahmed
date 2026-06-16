@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=essraahmed&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn")
-![Static Badge](https://img.shields.io/badge/Portfolio-red?link=[https%3A%2F%2Fesraaahmed.vercel.app](https://esraaahmed.vercel.app/))
+[![Static Badge](https://img.shields.io/badge/Portfolio-red)](https://esraaahmed.vercel.app/)
 
 
 ## 👩🏻‍💻About Me
